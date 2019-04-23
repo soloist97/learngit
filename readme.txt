@@ -5,3 +5,4 @@ Git tracks changes of files.
 Github is something very cool.
 Creating a new branch is quick and simple.
 No Fast forward model.
+Git stash before git add.
